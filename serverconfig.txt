@@ -1,0 +1,4 @@
+maxplayers=8
+motd=BTHO COVID-19
+world=./worlds/Quarintina_Take_Two.wld
+port=7777
